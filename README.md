@@ -1,2 +1,2 @@
-# super-super-heroku-bot
-Bot using heroku, 24/7!
+# Clyde Bot
+The bot API for "Clyde" Bot!
